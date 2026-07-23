@@ -1,0 +1,26 @@
+name: Latest Blog Posts Workflow
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme-with-blog:
+    name: Update Profile README with Latest Blog Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull RSS Feed Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Change feed_list to your RSS feed URL(s), e.g., Dev.to, Medium, Hashnode
+          feed_list: "https://dev.to/feed/meghanavastrad, https://medium.com/feed/@meghanavastrad"
+          max_post_count: 5
+          commit_message: "Updated profile README with latest blog posts"
