@@ -59,7 +59,7 @@
 
   <!-- 05. TYPING ANIMATION -->
   <a href="https://github.com/MeghanaVastrad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+I'm+Meghana+Vastrad+👋;Full-Stack+Software+Engineer+💻;Open+Source+Contributor+%26+Builder+🚀;Passionate+about+AI%2C+Web3+%26+Modern+Web+✨" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+I'm+Meghana+Vastrad;Full-Stack+Software+Engineer;Open+Source+Contributor+%26+Builder;Passionate+about+AI%2C+Web3+%26+Modern+Web" alt="Typing Animation" />
   </a>
 
   <br/><br/>
@@ -107,7 +107,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <!-- 19. CODING GIF -->
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="90%" style="border-radius: 12px;" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Female Developer Coding GIF" width="95%" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
