@@ -2,39 +2,6 @@
 ================================================================
   MEGHANA VASTRAD - ULTRA-PREMIUM DYNAMIC GITHUB PROFILE
 ================================================================
-  01. Introduction
-  02. Folder Structure
-  03. README Layout
-  04. Banner
-  05. Typing Animation
-  06. Social Icons
-  07. About Me
-  08. Skills
-  09. GitHub Stats
-  10. Streak Stats
-  11. Top Languages
-  12. Activity Graph
-  13. Snake Animation
-  14. Metrics Dashboard
-  15. WakaTime
-  16. GitHub Trophies
-  17. Visitor Counter
-  18. Featured Projects
-  19. Coding GIF
-  20. Dev Quote
-  21. Blog Automation
-  22. YouTube Automation
-  23. Spotify
-  24. Discord Presence
-  25. Holopin
-  26. GitHub Achievements
-  27. GitHub Actions
-  28. Repository Structure
-  29. Secrets Needed
-  30. Common Mistakes
-  31. Final Premium Layout
-  32. References
-================================================================
 -->
 
 <div align="center">
@@ -87,8 +54,8 @@
 
 <hr />
 
-<!-- 01. INTRODUCTION & 07. ABOUT ME -->
-## 💫 01. Introduction & About Me
+<!-- INTRODUCTION & ABOUT ME -->
+## 💫 Introduction & About Me
 
 <table width="100%" stroke="none">
   <tr>
@@ -106,7 +73,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- 19. CODING GIF -->
+      <!-- CODING GIF -->
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Female Developer Coding GIF" width="95%" style="border-radius: 12px;" />
     </td>
   </tr>
@@ -114,8 +81,8 @@
 
 <hr />
 
-<!-- 08. SKILLS -->
-## 🛠️ 08. Technical Stack & Skills
+<!-- SKILLS -->
+## 🛠️ Technical Stack & Skills
 
 <div align="center">
 
@@ -132,8 +99,8 @@
 
 <hr />
 
-<!-- 16. GITHUB TROPHIES -->
-## 🏆 16. GitHub Trophies & Milestones
+<!-- GITHUB TROPHIES -->
+## 🏆 GitHub Trophies & Milestones
 
 <div align="center">
   <p align="center">
@@ -146,8 +113,8 @@
 
 <hr />
 
-<!-- 09. GITHUB STATS & 10. STREAK STATS & 11. TOP LANGUAGES -->
-## 📊 09 - 11. GitHub Statistics & Overview
+<!-- GITHUB STATS & TOP LANGUAGES -->
+## 📊 GitHub Statistics & Overview
 
 <div align="center">
 
@@ -162,8 +129,8 @@
 
 <hr />
 
-<!-- 12 & 13. CONTRIBUTION SNAKE ANIMATION -->
-## 🐍 12 - 13. Dynamic Contribution Snake Graph
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+## 🐍 Dynamic Contribution Snake Graph
 
 <div align="center">
   <picture>
@@ -175,17 +142,8 @@
 
 <hr />
 
-<!-- 14. METRICS DASHBOARD & 15. ACCOUNT METRICS -->
-## ⚡ 14 - 15. Account Metrics & Insights
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MeghanaVastrad/MeghanaVastrad/main/github-metrics.svg" alt="GitHub Account Metrics Dashboard" width="100%" />
-</div>
-
-<hr />
-
-<!-- 18. FEATURED PROJECTS -->
-## 🌟 18. Featured Projects
+<!-- FEATURED PROJECTS -->
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -199,8 +157,8 @@
 
 <hr />
 
-<!-- 20. DEV QUOTE & 24. DEVELOPER PHILOSOPHY -->
-## 💡 20 & 24. Developer Philosophy & Quote
+<!-- DEV QUOTE & DEVELOPER PHILOSOPHY -->
+## 💡 Developer Philosophy & Quote
 
 <div align="center">
   <blockquote align="center">
@@ -211,8 +169,8 @@
 
 <hr />
 
-<!-- 21. BLOG AUTOMATION & 22. YOUTUBE AUTOMATION -->
-## 📰 21 - 22. Latest Blog Posts & Video Automation
+<!-- BLOG AUTOMATION & YOUTUBE AUTOMATION -->
+## 📰 Latest Blog Posts & Articles
 
 <div align="left">
 
@@ -227,8 +185,8 @@
 
 <hr />
 
-<!-- 25. HOLOPIN & 26. GITHUB ACHIEVEMENTS -->
-## 🏅 25 - 26. GitHub Achievements
+<!-- GITHUB ACHIEVEMENTS -->
+## 🏅 GitHub Achievements
 
 <div align="center">
   <p align="center">
@@ -240,50 +198,6 @@
 </div>
 
 <hr />
-
-<!-- 02. FOLDER STRUCTURE & 28. REPOSITORY STRUCTURE -->
-## 📁 02 & 28. Repository & Folder Structure
-
-```
-MeghanaVastrad/
-├── .github/
-│   └── workflows/
-│       ├── snake.yml               # 13, 27. Contribution Snake GIF/SVG generator
-│       ├── blog-post-workflow.yml  # 21. RSS Feed automation workflow
-│       └── metrics.yml             # 14. Account metrics generator workflow
-├── assets/
-│   ├── images/
-│   │   ├── banner.svg              # 04. Custom vector gradient header banner
-│   │   └── coding.gif              # 19. High quality coding animation
-│   └── docs/
-│       └── SETUP_GUIDE.md          # 29, 30. Detailed setup & troubleshooting guide
-└── README.md                       # 03, 31. Main dynamic profile README
-```
-
-<hr />
-
-<!-- 29. SECRETS NEEDED & 30. COMMON MISTAKES -->
-## 🔑 29 - 30. Setup Secrets & Common Mistakes
-
-For step-by-step instructions on setting up your `GH_PAT` repository secret and configuring GitHub Actions workflow permissions, please refer to the **[🛠️ Comprehensive Setup & Troubleshooting Guide](./assets/docs/SETUP_GUIDE.md)**.
-
-<hr />
-
-<!-- 32. REFERENCES -->
-## 🔗 32. Tools & References Used
-
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Platane/snk Snake Generator](https://github.com/Platane/snk)
-- [Gautamkrishnar Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-- [Lowlighter Metrics](https://github.com/lowlighter/metrics)
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-- [Readme Typing SVG](https://readme-typing-svg.demolab.com/)
-- [Shields.io Badges](https://shields.io/)
-- [Lanyard Discord API](https://github.com/Phineas/lanyard)
-- [Holopin](https://www.holopin.io/)
-
----
 
 <div align="center">
   <p>Designed with ❤️ by <a href="https://github.com/MeghanaVastrad"><b>Meghana Vastrad</b></a></p>
