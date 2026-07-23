@@ -194,21 +194,10 @@
 <hr />
 
 <!-- 14. METRICS DASHBOARD & 15. WAKATIME -->
-## ⚡ 14 - 15. Metrics Dashboard & WakaTime Coding Insights
+## ⚡ 14 - 15. Account Metrics & Insights
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <h4>📊 WakaTime Weekly Coding Stats</h4>
-        <img src="https://github-readme-wakatime.vercel.app/api?username=MeghanaVastrad&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-      </td>
-      <td width="50%" align="center">
-        <h4>🎯 Productive Hours Breakdown</h4>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MeghanaVastrad&theme=tokyonight" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/MeghanaVastrad/MeghanaVastrad/main/github-metrics.svg" alt="GitHub Account Metrics Dashboard" width="100%" />
 </div>
 
 <hr />
@@ -228,27 +217,19 @@
 
 <hr />
 
-<!-- 23. SPOTIFY & 24. DISCORD PRESENCE & 20. DEV QUOTE -->
-## 🎵 20, 23, 24. Live Integrations & Widgets
+<!-- 20. DEV QUOTE & 24. DISCORD PRESENCE -->
+## 💡 20, 24. Live Integrations & Daily Quote
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <h4>🎧 Currently Listening On Spotify</h4>
-        <a href="https://spotify.com">
-          <img src="https://spotify-github-readme.vercel.app/api/spotify?summary=true" alt="Spotify Currently Playing" />
-        </a>
-      </td>
-      <td align="center" width="50%">
         <h4>🎮 Discord Live Status</h4>
         <img src="https://lanyard.cnrad.dev/api/raw?id=123456789012345678&theme=dark" alt="Discord Status" />
       </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+      <td align="center" width="50%">
         <h4>💡 Daily Developer Quote</h4>
-        <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&card_width=600" alt="Daily Quote" />
+        <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&card_width=500" alt="Daily Quote" />
       </td>
     </tr>
   </table>
@@ -273,23 +254,15 @@
 <hr />
 
 <!-- 25. HOLOPIN & 26. GITHUB ACHIEVEMENTS -->
-## 🏅 25 - 26. GitHub Achievements & Holopin Badges
+## 🏅 25 - 26. GitHub Achievements
 
 <div align="center">
-
-  <h4>🎖️ Native GitHub Achievements</h4>
   <p align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/badge-pair-extraordinaire-default.png" width="70" alt="Pair Extraordinaire" />
-    <img src="https://github.githubassets.com/images/modules/profile/badge-pull-shark-default.png" width="70" alt="Pull Shark" />
-    <img src="https://github.githubassets.com/images/modules/profile/badge-quickdraw-default.png" width="70" alt="Quickdraw" />
-    <img src="https://github.githubassets.com/images/modules/profile/badge-starstruck-default.png" width="70" alt="Starstruck" />
+    <img src="https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-7ee787?style=for-the-badge&logo=github&logoColor=black" alt="Pair Extraordinaire" />
+    <img src="https://img.shields.io/badge/GitHub-Pull%20Shark-58a6ff?style=for-the-badge&logo=github&logoColor=black" alt="Pull Shark" />
+    <img src="https://img.shields.io/badge/GitHub-Quickdraw-bc8cff?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" />
+    <img src="https://img.shields.io/badge/GitHub-Starstruck-f2cc60?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck" />
   </p>
-
-  <h4>📌 Holopin Badges Board</h4>
-  <a href="https://holopin.io/@meghanavastrad">
-    <img src="https://holopin.io/api/user/meghanavastrad" alt="Holopin Board" width="100%" />
-  </a>
-
 </div>
 
 <hr />
@@ -318,7 +291,7 @@ MeghanaVastrad/
 <!-- 29. SECRETS NEEDED & 30. COMMON MISTAKES -->
 ## 🔑 29 - 30. Setup Secrets & Common Mistakes
 
-For a step-by-step instructions on setting up `GH_PAT`, `WAKATIME_API_KEY`, `SPOTIFY_*` secrets, and fixing GitHub Actions permission errors, please refer to the **[🛠️ Comprehensive Setup & Troubleshooting Guide](./assets/docs/SETUP_GUIDE.md)**.
+For step-by-step instructions on setting up your `GH_PAT` repository secret and configuring GitHub Actions workflow permissions, please refer to the **[🛠️ Comprehensive Setup & Troubleshooting Guide](./assets/docs/SETUP_GUIDE.md)**.
 
 <hr />
 
