@@ -133,55 +133,37 @@
 <hr />
 
 <!-- 16. GITHUB TROPHIES -->
-## 🏆 16. GitHub Trophies & Achievements
+## 🏆 16. GitHub Trophies & Milestones
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MeghanaVastrad&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Meghana's GitHub Trophies" width="100%" />
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Trophy-Master%20Contributor-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Master Contributor" />
+    <img src="https://img.shields.io/badge/Trophy-Code%20Architect-C0C0C0?style=for-the-badge&logo=git&logoColor=black" alt="Code Architect" />
+    <img src="https://img.shields.io/badge/Trophy-Open%20Source%20Hero-CD7F32?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open Source Hero" />
+    <img src="https://img.shields.io/badge/Trophy-Pull%20Shark-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  </p>
 </div>
 
 <hr />
 
 <!-- 09. GITHUB STATS & 10. STREAK STATS & 11. TOP LANGUAGES -->
-## 📊 09 - 11. GitHub Statistics & Analytics
+## 📊 09 - 11. GitHub Statistics & Overview
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <!-- 09. GITHUB STATS -->
-        <img src="https://github-readme-stats.vercel.app/api?username=MeghanaVastrad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195" />
-      </td>
-      <td>
-        <!-- 11. TOP LANGUAGES -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaVastrad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="195" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- 10. STREAK STATS -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeghanaVastrad&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
+| Metric | Overview |
+| :--- | :--- |
+| **🚀 Primary Focus** | Full-Stack Web Architecture, Cloud Apps & AI Integrations |
+| **⚡ Core Stack** | TypeScript, React, Next.js, Python, Node.js, PostgreSQL |
+| **📦 DevOps & Tools** | Docker, Git, GitHub Actions, Vercel, Supabase |
+| **🔥 Activity Status** | Active Open Source Contributor & Developer |
 
 </div>
 
 <hr />
 
-<!-- 12. ACTIVITY GRAPH -->
-## 📈 12. Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeghanaVastrad&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-<hr />
-
-<!-- 13. SNAKE ANIMATION -->
-## 🐍 13. Contribution Snake Animation
+<!-- 12 & 13. CONTRIBUTION SNAKE ANIMATION -->
+## 🐍 12 - 13. Dynamic Contribution Snake Graph
 
 <div align="center">
   <picture>
@@ -193,7 +175,7 @@
 
 <hr />
 
-<!-- 14. METRICS DASHBOARD & 15. WAKATIME -->
+<!-- 14. METRICS DASHBOARD & 15. ACCOUNT METRICS -->
 ## ⚡ 14 - 15. Account Metrics & Insights
 
 <div align="center">
@@ -217,22 +199,14 @@
 
 <hr />
 
-<!-- 20. DEV QUOTE & 24. DISCORD PRESENCE -->
-## 💡 20, 24. Live Integrations & Daily Quote
+<!-- 20. DEV QUOTE & 24. DEVELOPER PHILOSOPHY -->
+## 💡 20 & 24. Developer Philosophy & Quote
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <h4>🎮 Discord Live Status</h4>
-        <img src="https://lanyard.cnrad.dev/api/raw?id=123456789012345678&theme=dark" alt="Discord Status" />
-      </td>
-      <td align="center" width="50%">
-        <h4>💡 Daily Developer Quote</h4>
-        <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&card_width=500" alt="Daily Quote" />
-      </td>
-    </tr>
-  </table>
+  <blockquote align="center">
+    <i>"First, solve the problem. Then, write the code."</i><br/>
+    <b>— John Johnson</b>
+  </blockquote>
 </div>
 
 <hr />
